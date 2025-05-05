@@ -1,2 +1,2 @@
 # sys-ops-gym
-A collection of scripts, musings from different DevOps/SysAdmin learning platforms
+A collection of different DevOps/SysAdmin scripts, musings from  learning platforms and projects
