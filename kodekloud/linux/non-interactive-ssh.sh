@@ -8,3 +8,6 @@ create_user () {
 }
 
 create_user
+
+
+useradd username -s /sbin/nologin
